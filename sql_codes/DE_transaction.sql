@@ -1,0 +1,13 @@
+insert into transactions values('100003987772035','cash','success','2023-01-23', 1600, '8412679EE');
+insert into transactions values('100003987782031','credit card','success','2023-02-23', 900, '7063510EE');
+insert into transactions values('100006792843210','upi','success','2023-03-06', 1000, '2004081CS');
+insert into transactions values('100006811846220','cash','success','2023-03-20', 600, '2004081CS');
+insert into transactions values('100007814332108','cash','success','2023-04-01', 1200, '8412679EE');
+insert into transactions values('100003954204594','credit card','success','2023-05-21', 2000, '7063510EE');
+insert into transactions values('100002590442945','cash','success','2023-06-02', 400, '8412679EE');
+insert into transactions values('100005294024495','debit card','success','2023-06-28', 800, '2004081CS');
+insert into transactions values('100003937167061','net banking','success','2023-06-30', 1200, '7063510EE');
+insert into transactions values('100009373610716','cash','success','2023-07-24', 300, '8412679EE');
+insert into transactions values('100006732567810','upi','failed','2023-08-23', 0, '2004081CS');
+insert into transactions values('100007982671120','debit card','failed','2023-08-30', 0, '7063510EE');
+insert into transactions values('100006728221020','cash','pending','2023-09-16', 0, '8412679EE');

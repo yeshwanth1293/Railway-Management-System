@@ -1,0 +1,10 @@
+insert into ticket values(4657299175, 4, 'GDR','BZA','100003987772035',12760);
+insert into ticket values(4657299176, 3, 'NLR','GNT','100003987782031',12711);
+insert into ticket values(4657299178, 2, 'BZA','VSKP','100006792843210',12799);
+insert into ticket values(4667288194, 1, 'KVZ','WL','100006811846220',12759);
+insert into ticket values(4767345174, 2, 'GDR','SC','100007814332108',12709);
+insert into ticket values(4357364192, 4, 'SC','MAS','100003987772035',17029);
+insert into ticket values(4356763203, 1, 'SC','KRNT','100002590442945',12203);
+insert into ticket values(4125679102, 2, 'BZA','NLR','100005294024495',12712);
+insert into ticket values(8562844096, 3, 'VSKP','RJY','100003937167061',12800);
+insert into ticket values(4343427276, 1, 'SC','NLR','100009373610716',12710);

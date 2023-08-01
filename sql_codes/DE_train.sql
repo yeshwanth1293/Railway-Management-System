@@ -1,0 +1,14 @@
+insert into train values(12759,'charminar express', 'MAS', 'SC', 700);
+insert into train values(12760,'charminar express', 'SC', 'MAS', 700);
+insert into train values(12709,'simhapuri express', 'GDR', 'SC', 500);
+insert into train values(12710,'simhapuri express', 'SC', 'GDR', 500);
+insert into train values(12202,'golconda express', 'KRNT', 'SC', 300);
+insert into train values(12203,'golconda express', 'SC', 'KRNT', 300);
+insert into train values(12711,'pinakini express', 'MAS', 'BZA', 500);
+insert into train values(12712,'pinakini express', 'BZA', 'MAS', 500);
+insert into train values(17028,'hundry express', 'MAS', 'SC', 700);
+insert into train values(17029,'hundry express', 'SC', 'MAS', 700);
+insert into train values(12799,'godavari express', 'MAS', 'VSKP', 1200);
+insert into train values(12800,'godavari express', 'VSKP', 'MAS', 1200);
+insert into train values(57992,'past passenger', 'MAS', 'SC',1300);
+insert into train values(57993,'past passenger', 'SC', 'MAS',1300);
